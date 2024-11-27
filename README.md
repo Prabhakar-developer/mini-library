@@ -29,7 +29,7 @@ The Mini Library System is a backend project built with Node.js, Express, and Mo
 
 ## Getting Started
 ```bash
-git clone https://github.com/yourusername/mini-library-system.git
+git clone https://github.com/Prabhakar-developer/mini-library.git
 cd mini-library-system
 cp .env.example .env
 npm install
